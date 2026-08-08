@@ -60,7 +60,7 @@ CEBEBAL-EXCELLENCE-INTERNSHIP/
 │
 ├── Week1_ML_Foundations.ipynb
 ├── Week2_ML_Pipeline.ipynb
-├── Week3.ipynb
+├── Week3_Unsupervised_Learning.ipynb
 ├── Week4_CIFAR10_ANN_CNN.ipynb
 ├── Week5_Text_Generation_RNN_LSTM_GRU.ipynb
 ├── Week6_Autoencoder_Image_Denoising.ipynb
