@@ -75,3 +75,10 @@ CEBEBAL-EXCELLENCE-INTERNSHIP/
     ├── Satellite_Image_Land_Use_Classifier_Temporal_Change_Detection.ipynb
     ├── resnet18_eurosat.pt
     └── results/
+
+## Author
+
+**Ayush Raj**
+
+B.Tech – Computer Science Engineering  
+ITER, SOA University
