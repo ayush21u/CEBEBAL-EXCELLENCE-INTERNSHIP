@@ -6,7 +6,7 @@ This repository contains my work completed during the Celebal Excellence Interns
 
 The repository contains the following weekly assignments:
 
-- **Week 1** – Python / Data Analysis
+- **Week 1** – ML Foundations
 - **Week 2** – Machine Learning Pipeline
 - **Week 3** – Unsupervised Learning
 - **Week 4** – CIFAR-10 ANN & CNN
@@ -58,7 +58,7 @@ A computer vision project for satellite image land-use classification and tempor
 ```text
 CEBEBAL-EXCELLENCE-INTERNSHIP/
 │
-├── Week1_Ayush_Raj.ipynb
+├── Week1_ML_Foundations.ipynb
 ├── Week2_ML_Pipeline.ipynb
 ├── Week3.ipynb
 ├── Week4_CIFAR10_ANN_CNN.ipynb
